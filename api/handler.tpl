@@ -2,7 +2,6 @@ package handler
 
 import (
     "net/http"
-    "browser/common/response"
     {{.ImportPackages}}
 )
 
